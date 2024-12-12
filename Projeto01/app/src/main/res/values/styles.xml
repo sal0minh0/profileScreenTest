@@ -1,0 +1,14 @@
+<resources>
+    <style name="TextAppearance.UserInfo" parent="TextAppearance.AppCompat">
+        <item name="android:fontFamily">@font/poppins_medium</item>
+        <item name="android:textColor">#2E5F99</item>
+        <item name="android:textSize">13sp</item>
+    </style>
+
+    <style name="TextAppearance.SectionTitle" parent="TextAppearance.AppCompat">
+        <item name="android:fontFamily">@font/poppins_medium</item>
+        <item name="android:textColor">#7D99B3</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+</resources>

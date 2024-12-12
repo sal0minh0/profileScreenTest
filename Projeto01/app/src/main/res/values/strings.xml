@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">Projeto01</string>
+    <string name="device_frame_description">Frame do dispositivo</string>
+    <string name="user_avatar_description">Avatar do usuário</string>
+    <string name="user_info_placeholder">NomeUsuário\nusuário@gmail.com</string>
+    <string name="task_classification">Classificação de tarefas</string>
+    <string name="daily_completion_average">Média de conclusão diária</string>
+    <string name="achievements">Conquistas</string>
+    <string name="back_arrow_description">Descrição seta preta</string>
+    <string name="settings_icon_description">Descrição configurações</string>
+    <string name="daily_average_completion">Completar média diária</string>
+    <string name="trophy_achievement_description">Trofeu Conquista descrição</string>
+    <string name="diamond_achievement_description">Diamante Conquista descrição</string>
+    <string name="gold_achievement_description">Ouro Conquista descrição</string>
+    <string name="star_achievement_description">Estrela Conquista descrição</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_calendar">Calendar</string>
+    <string name="nav_new_habit">New Habit</string>
+    <string name="nav_search">Search</string>
+    <string name="nav_notifications">Notifications</string>
+    <string name="font_poppins_regular">fonts/poppins_medium.ttf</string>
 </resources>

@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/vector"
+        android:title="@string/nav_home" />
+    <item
+        android:id="@+id/nav_calendar"
+        android:icon="@drawable/vector__1_"
+        android:title="@string/nav_calendar" />
+    <item
+        android:id="@+id/nav_new_habit"
+        android:icon="@drawable/vector__2_"
+        android:title="@string/nav_new_habit" />
+    <item
+        android:id="@+id/nav_search"
+        android:icon="@drawable/vector__3_"
+        android:title="@string/nav_search" />
+    <item
+        android:id="@+id/nav_notifications"
+        android:icon="@drawable/vector__4_"
+        android:title="@string/nav_notifications" />
+</menu>

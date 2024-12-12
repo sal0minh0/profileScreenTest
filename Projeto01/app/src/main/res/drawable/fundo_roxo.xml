@@ -5,11 +5,10 @@
 
         <shape>
 
-            <solid android:color="#ffffff" />
+            <solid android:color="#E2DCFE" />
             <corners android:radius="20dp" />
 
         </shape>
-
 
     </item>
 
