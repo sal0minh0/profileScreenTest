@@ -4,7 +4,11 @@
 
 </div>
 
+<div align="center">
+
 ### _Um modelo de Tela de Perfil Simples para o `Android`_
+
+</div>
 
 <div align="center">
 
@@ -35,17 +39,15 @@
 - **_Usando [Jetpack Compose](https://developer.android.com/jetpack?gad_source=1&gclid=CLvL07Omo4oDFX5BSAAdNE0ITA&gclsrc=ds&hl=pt-br)_** 🤖
 - **_E o [Gradle](https://gradle.org/)_** 🐘
 
-
 <div align="center">
 
 ## 📂Pastas Principais
 
 </div>
 
-
-| Pasta/Arquivo            |Descrição                                                                                                                                                  |
-|------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| `Gradle`              | É uma `Ferramenta` de automação de construção de software para o `Android`. Ajuda na `Construção`, `Teste` e `Implementação de Apps`.                                |
-| `App`                 | Foi Separado nestes dois Programas em Kotlin abaixo:                                                                             |
-| `MainActivity.kt`      | Configura a `Interface de Usuário` usando `Jetpack Compose` com insets da janela.                                                                              |
-| `ProfileScreen.kt`    | Define a tela de perfil do usuário com várias Seções como `Barra Superior`, `Informações do Usuário`, `Média Diária`, `Classificação de Tarefas` e `Conquistas.`     |
+| Pasta/Arquivo      | Descrição                                                                                                                                                        |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `Gradle`           | É uma `Ferramenta` de automação de construção de software para o `Android`. Ajuda na `Construção`, `Teste` e `Implementação de Apps`.                            |
+| `App`              | Foi Separado nestes dois Programas em Kotlin abaixo:                                                                                                             |
+| `MainActivity.kt`  | Configura a `Interface de Usuário` usando `Jetpack Compose` com insets da janela.                                                                                |
+| `ProfileScreen.kt` | Define a tela de perfil do usuário com várias Seções como `Barra Superior`, `Informações do Usuário`, `Média Diária`, `Classificação de Tarefas` e `Conquistas.` |
