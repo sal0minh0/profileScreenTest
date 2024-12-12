@@ -6,7 +6,7 @@
 
 <div align="center">
 
-### _Um modelo de Tela de Perfil Simples para o `Android`_
+### _Um modelo de `Tela de Perfil` Simples para o `Android`_
 
 </div>
 
@@ -35,7 +35,7 @@
 
 </div>
 
-- **_Feito em [Kotlin](https://cplusplus.com/)_** 📲 <br>
+- **_Feito em [Kotlin](https://kotlinlang.org/)_** 📲 <br>
 - **_Usando [Jetpack Compose](https://developer.android.com/jetpack?gad_source=1&gclid=CLvL07Omo4oDFX5BSAAdNE0ITA&gclsrc=ds&hl=pt-br)_** 🤖
 - **_E o [Gradle](https://gradle.org/)_** 🐘
 
