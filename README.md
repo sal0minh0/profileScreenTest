@@ -33,6 +33,7 @@
 
 - **_Feito em [Kotlin](https://cplusplus.com/)_** 📲 <br>
 - **_Usando [Jetpack Compose](https://developer.android.com/jetpack?gad_source=1&gclid=CLvL07Omo4oDFX5BSAAdNE0ITA&gclsrc=ds&hl=pt-br)_** 🤖
+- **_E o [Gradle](https://gradle.org/)_** 🐘
 
 
 <div align="center">
@@ -41,7 +42,10 @@
 
 </div>
 
-|         `Gradle`         |        `App`         |
-| :-------------------: | :--------------------------: |
-|  | |
 
+| Pasta/Arquivo            |Descrição                                                                                                                                                  |
+|------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| `Gradle`              | É uma `Ferramenta` de automação de construção de software para o `Android`. Ajuda na `Construção`, `Teste` e `Implementação de Apps`.                                |
+| `App`                 | Foi Separado nestes dois Programas em Kotlin abaixo:                                                                             |
+| `MainActivity.kt`      | Configura a `Interface de Usuário` usando `Jetpack Compose` com insets da janela.                                                                              |
+| `ProfileScreen.kt`    | Define a tela de perfil do usuário com várias Seções como `Barra Superior`, `Informações do Usuário`, `Média Diária`, `Classificação de Tarefas` e `Conquistas.`     |
